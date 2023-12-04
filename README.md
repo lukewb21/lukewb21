@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lukewb21
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java
 - 💻 I'm currently working on a film review website called IsItGood
-- 💻 I'm currently collaborating on a comedy racing game called Race For Office
 - 💞️ I’m looking to collaborate on anything
 - 📫 @sneaky#6101 on Discord
 
