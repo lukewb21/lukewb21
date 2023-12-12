@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lukewb21
+- 👋 Hi, I’m Luke Britton (@lukewb21)
 - 👀 I’m interested in Artificial Intelligence and Full-Stack Web Development
 - 🌱 I’m currently learning Java, Python, Frontend Web Dev and Generative AI Fundamentals
 - 💻 I'm currently working on a film review website called IsItGood
