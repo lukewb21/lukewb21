@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luke Britton (@lukewb21), a Computer Science student at Royal Holloway, University of London and Development Assistant at ProductVision Ltd.
 - 🌱 I’m currently learning C#, Java, Python, Web UX
-- 💻 I'm currently working on a [React-based party game](https://spyreact.me/?new=true). (w/ [@maddalena-24](https://github.com/maddalena-24).
+- 💻 I'm currently working on a [React-based party game](https://spyreact.me/?new=true). (w/ [@maddalena-24](https://github.com/maddalena-24)).
