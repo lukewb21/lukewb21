@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Luke Britton (@lukewb21), a Computer Science student at Royal Holloway, University of London
+- 👋 Hi, I’m Luke Britton (@lukewb21), a Computer Science student at Royal Holloway, University of London.
 - 🌱 I’m currently learning C#, Java, Python, Web UX
-- 💻 I'm currently working on a [React-based party game](https://spyreact.me/?new=true). (w/ [@maddalena-24](https://github.com/maddalena-24)).
+- 💻 My most recent project is a [no-AI chrome extension](https://chromewebstore.google.com/detail/noai-search/foalncjodahimkmbhibbfondghleikcp)
